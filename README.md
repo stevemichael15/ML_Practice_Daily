@@ -17,8 +17,8 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day     | Topic                              |
 |---------|------------------------------------|
 | Day 01  | EDA_Bike_Dataset                   |
-| Day 02  | EDA_travel_Dataset                 |
-| Day 03  |                                    |
+| Day 02  | EDA_Travel_Dataset                 |
+| Day 03  | EDA_Titanic_Dataset                |
 | Day 04  |                                    |
 | Day 05  |                                    |
 | Day 06  |                                    |
