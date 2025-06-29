@@ -20,11 +20,11 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 02  | EDA_Travel_Dataset                 |
 | Day 03  | EDA_Titanic_Dataset                |
 | Day 04  | Simple Linear Regression           |
-| Day 05  | Multiple Linear Regression         |
-| Day 06  |                                    |
-| Day 07  |Multiple Linear Regression          |
-| Day 08  |Logistic Regression                 |
-| Day 09  |Logistic Regression                 |
+| Day 05  | Simple Linear Regression           |
+| Day 06  | Multiple Linear Regression         |
+| Day 07  | Multiple Linear Regression         |
+| Day 08  | Logistic Regression                |
+| Day 09  | Logistic Regression                |
 | Day 10  |                                    |
 |
 ---
