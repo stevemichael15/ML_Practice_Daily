@@ -25,9 +25,12 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 07  | Multiple Linear Regression         |
 | Day 08  | Logistic Regression                |
 | Day 09  | Logistic Regression                |
-| Day 10  |                                    |
-|
----
+| Day 10  | Decision Tree                      |
+| Day 11  |                                    |
+| Day 12  |                                    |
+| Day 13  |                                    |
+| Day 14  |                                    |
+|---
 
 ## 📦 How to Use
 
