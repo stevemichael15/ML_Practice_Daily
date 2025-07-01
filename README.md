@@ -26,7 +26,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 08  | Logistic Regression                |
 | Day 09  | Logistic Regression                |
 | Day 10  | Decision Tree                      |
-| Day 11  |                                    |
+| Day 11  | Support vector machine classifier  |
 | Day 12  |                                    |
 | Day 13  |                                    |
 | Day 14  |                                    |
