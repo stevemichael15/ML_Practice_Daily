@@ -28,7 +28,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 10  | Decision Tree                      |
 | Day 11  | Support Vector Machine Classifier  |
 | Day 12  | Support Vector Machine Regressor   |
-| Day 13  |                                    |
+| Day 13  | Support Vector Machine Kernel      |
 | Day 14  |                                    |
 |---
 
