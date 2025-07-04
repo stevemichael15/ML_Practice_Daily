@@ -29,7 +29,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 11  | Support Vector Machine Classifier  |
 | Day 12  | Support Vector Machine Regressor   |
 | Day 13  | Support Vector Machine Kernel      |
-| Day 14  | Naive Baye Classifier              |
+| Day 14  | Naive Bayes Classifier             |
 | Day 15  |                                    |
 | Day 16  |                                    |
 | Day 17  |                                    |
