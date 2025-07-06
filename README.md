@@ -31,7 +31,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 13  | Support Vector Machine Kernel      |
 | Day 14  | Naive Bayes Classifier             |
 | Day 15  | Decision Tree Regressor            |
-| Day 16  |                                    |
+| Day 16  | Bagging Regressor            |
 | Day 17  |                                    |
 | Day 18  |                                    |
 | Day 19  |                                    |
