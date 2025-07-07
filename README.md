@@ -32,7 +32,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 14  | Naive Bayes Classifier             |
 | Day 15  | Decision Tree Regressor            |
 | Day 16  | Bagging Regressor                  |
-| Day 17  |                                    |
+| Day 17  | Column Transformers and Pipelines |
 | Day 18  |                                    |
 | Day 19  |                                    |
 |---
