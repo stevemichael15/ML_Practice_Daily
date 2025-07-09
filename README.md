@@ -34,7 +34,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 16  | Bagging Regressor                  |
 | Day 17  | Column Transformers and Pipelines  |
 | Day 18  | Random Forest Classifier           |
-| Day 19  |                                    |
+| Day 19  | Random Forest Regressor            |
 |---
 
 ## 📦 How to Use
