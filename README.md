@@ -36,6 +36,8 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 18  | Random Forest Classifier           |
 | Day 19  | Random Forest Regressor            |
 | Day 20  | Bagging Classifier                 |
+| Day 21  | Bagging Regressir
+|
 
 |---
 
