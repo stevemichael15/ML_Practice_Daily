@@ -1,7 +1,7 @@
 # 🧠 ML_Practice_Daily
 
 Welcome to **ML_Practice_Daily** — a daily machine learning coding journal where I upload one ML project or practice file every day. Each folder contains a self-contained project focusing on various ML techniques, algorithms, or data exploration tasks.
-
+ 
 --- 
 
 ## 🚀 What This Repo Contains
