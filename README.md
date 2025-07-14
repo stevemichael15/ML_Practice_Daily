@@ -38,6 +38,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 20  | Bagging Classifier                 |
 | Day 21  | Bagging Regressor                  |
 | Day 22  | Adaboost Boosting                  |
+| Day 22  | Gradient Boosting                  |
 |---
 
 ## 📦 How to Use
