@@ -40,7 +40,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 22  | Adaboost Boosting                  |
 | Day 23  | Gradient Boosting                  |
 | Day 24  | XG Boosting                        |
-| Day 25  | Stacking                         |
+| Day 25  | Stacking Ensemble                  |
 |---
 
 ## 📦 How to Use
