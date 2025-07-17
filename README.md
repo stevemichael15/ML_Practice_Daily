@@ -41,7 +41,7 @@ Welcome to **ML_Practice_Daily** — a daily machine learning coding journal whe
 | Day 23  | Gradient Boosting                  |
 | Day 24  | XG Boosting                        |
 | Day 25  | Stacking Ensemble                  |
-| Day 26  | Stacking Ensemble                  |
+| Day 26  | Pickling the ML models             |
 |---
 
 ## 📦 How to Use
